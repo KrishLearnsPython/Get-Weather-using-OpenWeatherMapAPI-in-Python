@@ -1,0 +1,2 @@
+1) Get the latitude and longitude values of your location in order to make the program work.
+2) Generate the API code from openweathermap.com
